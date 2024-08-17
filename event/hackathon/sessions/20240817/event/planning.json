@@ -1,0 +1,153 @@
+[
+    {
+        "timestamp": 1658180400,
+        "hour": "18:00",
+        "summary": "Début du hackathon et présentation du projet",
+        "description": "Présentation de GPT-Wallet, préparation de l'environnement de travail et attribuer des rôles"
+    },
+    {
+        "timestamp": 1658184000,
+        "hour": "19:00",
+        "summary": "Infrastructure et fondations",
+        "description": "Sélection et configuration de l'infrastructure, développement des interfaces"
+    },
+    {
+        "timestamp": 1658187200,
+        "hour": "20:00",
+        "summary": "Intégration des modèles d'IA pré-entraînés",
+        "description": "Implémentation de GPT-4, DALL-E, et text-embedding-ada-002"
+    },
+    {
+        "timestamp": 1658190400,
+        "hour": "21:00",
+        "summary": "Bots et intégration sur Telegram",
+        "description": "Développement et intégration de bots, gestion des groupes Telegram"
+    },
+    {
+        "timestamp": 1658193600,
+        "hour": "22:00",
+        "summary": "Création de l'interface utilisateur",
+        "description": "Design et intégration de l'interface utilisateur pour GPT-Wallet"
+    },
+    {
+        "timestamp": 1658196800,
+        "hour": "23:00",
+        "summary": "Optimisation et maintenance",
+        "description": "Tests, optimisation, mise à jour continue, communication et suivi"
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "00:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "01:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "02:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "03:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "04:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "05:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "06:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "07:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "08:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "09:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "10:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "11:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "12:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "13:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "14:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "15:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "16:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "17:00",
+        "summary": "",
+        "description": ""
+    },
+    {
+        "timestamp":2550110255,
+        "hour": "18:00",
+        "summary": "",
+        "description": ""
+    }
+    ]
+    
