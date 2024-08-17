@@ -1,0 +1,33 @@
+{
+"story": {
+"title": "Le Juge des Élections",
+"author": "Votre nom",
+"acts": [
+{
+"title": "La Situation",
+"description": "La scène s'ouvre sur des images de manifestations réprimées violemment par les forces de l'ordre.",
+"objectives": ["Comprendre la situation initiale", "Découvrir les motivations des personnages"]
+},
+{
+"title": "La Commission d'Enquête",
+"description": "Les membres du parti politique lancent une commission d'enquête sur une affaire d'escroquerie à grande échelle.",
+"objectives": ["Rassembler des preuves", "Résoudre des énigmes liées à l'enquête"]
+},
+{
+"title": "La Transformation de l'Élysée en Tribunal",
+"description": "Les membres du parti politique cherchent à faire entendre leur cause devant un tribunal impartial.",
+"objectives": ["Explorer l'Élysée", "Découvrir des éléments importants pour le procès"]
+},
+{
+"title": "Le Jugement Contraire aux Prévenus Absents",
+"description": "Malgré les convocations, les demandes d'entretiens et les pétitions pour une éventuelle procédure de destitution, les membres du parti politique refusent de comparaître devant le tribunal.",
+"objectives": ["Analyser les preuves", "Résoudre les questions juridiques"]
+},
+{
+"title": "De l'Élysée à la Prison",
+"description": "L'Élysée est temporairement transformé en un centre pénitentiaire, symbole de la victoire de la justice et de l'engagement envers l'État de droit.",
+"objectives": ["Infiltrer l'Élysée", "Atteindre la conclusion de l'histoire"]
+}
+]
+}
+}

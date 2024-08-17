@@ -1,7 +1,6 @@
-source .zshrc
-node Avatars_Pibot.js
-node User/user_Pibot.js
-node blog/blog_Pibot.js
-node models/gpt/gpt-io.js
-node models/gemini/gemini_Pibot.js
-node srv/srv.js
+#!/bin/bash
+node Avatars_Pibot.js &
+node workspace/worker_pibot.js &
+node model/gemini/gemini_pibot.js &
+node public/CTF.js &
+node srv/srv.js &

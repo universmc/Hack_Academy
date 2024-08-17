@@ -37,17 +37,19 @@ MAGIC_TARGETS := codex build rep file script clean
 
 all: $(MAGIC_TARGETS)
 
-srv : run start
+srv : run
 
 run:
 	@node ./srv/srv.js
+CTF:
+	@node ./CTF-Tresore.js
 
 
 update:
-	@echo "✨ Mise en état du dossier sur github✨"
+	@echo "✨ Mise à jour du programme CTF✨"
 	@git add .
 	@git commit -m "test"
-	@git push
+	@git push -f
 	@echo "✨ Mise à jour terminée✨"
 
 init: gantt phase1 phase2 phase3 phase4 phase5 phase6 phase7 phase8

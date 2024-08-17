@@ -44,8 +44,8 @@ if [ -f ~/.config/module.sh ]; then
     source ~/.config/module.sh
 fi
 # Chargement de groq et gcloud depuis zsh.sh
-if [ -f ~/.config/zsh.sh ]; then
-    source ~/.config/zsh.sh
+if [ -f ~/.config/aliases.sh ]; then
+    source ~/.config/aliases.sh
 fi
 
 PS1="%F{blue}$(date "+%H:%M:%S") Development Mode %F{green}💻 %F{yellow}:%~ %F{yellow}%# %f"
