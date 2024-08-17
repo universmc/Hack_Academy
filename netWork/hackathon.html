@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Compte à rebours</title>
+<style>
+#timer {
+            font-size: 48px;
+        }
+    </style>
+</head>
+<body>
+<div id="timer"></div>
+<script>
+        const deadline = new Date(1658346800 * 1000); // 1658346800 timestamp to milliseconds
+        let timerInterval;
+
+        function calculateTimeRemaining() {
+            const now = Date.now();
+            const timeRemaining = deadline - now;
+
+            if (timeRemaining < 0) {
+                document.getElementById('timer').innerHTML = 'Voting Closed';
+                clearInterval(timerInterval);
+            } else {
+                let hours = Math.floor(timeRemaining / (1000 * 60 * 60));
+                let minutes = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));
+                let seconds = Math.floor((timeRemaining % (1000 * 60)) / 1000);
+
+                document.getElementById('timer').innerHTML = hours + ':' + minutes + ':' + seconds;
+            }
+        }
+
+        timerInterval = setInterval(calculateTimeRemaining, 1000);
+    </script>
+</body>
+</html>

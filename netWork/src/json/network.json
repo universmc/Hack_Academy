@@ -1,0 +1,69 @@
+[       
+    {
+    "titre": "Social NetWork",
+    "sousSections": [
+        {
+            "sousTitre": "Introduction",
+            "contenu": "Présentation de l'agent IA le développement du ML."
+        },
+        {
+            "sousTitre": "FullStack",
+            "contenuMarkdown": "src/md/cours-fullstack.md"
+        }
+    ]
+    },
+    {
+        "titre": "Youtube",
+        "sousSections": [
+        {
+        "contenu": "techniques et methodes avancées pour construire des modèles d'IA...",
+        "contenuMarkdown": "src/md/youtube.md"
+    }]
+    },
+    {
+        "titre": "google",
+        "sousSections": [
+            {
+                "sousTitre": "Introduction au DevOps",
+                "contenuMarkdown": "src/md/google.md"
+            }
+        ]
+    },
+    {
+        "titre": "linkedin",
+        "sousSections": [
+            {
+                "sousTitre": "HTML",
+                "contenuMarkdown": "src/md/linkedin.md"
+            }
+        ]
+    },
+    {
+        "titre": "facebook",
+        "sousSections": [
+            {
+                "sousTitre": "web-kit",
+                "contenuMarkdown": "src/md/facebook.md"
+            }
+        ]
+    },
+    {
+        "titre": "Instagram",
+        "sousSections": [
+            {
+                "sousTitre": "IA",
+                "contenuMarkdown": "src/md/instagram.md"
+            }
+
+        ]
+    },    
+    {
+        "titre": "TikTok",
+        "sousSections": [
+            {
+                "sousTitre": "IA",
+                "contenuMarkdown": "src/md/tiktok.md"
+            }
+        ]
+    }
+]
