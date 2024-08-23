@@ -31,7 +31,7 @@
         "stop":"None"
     },
     "gemma": {
-      "model":"gemma-7b-it",
+      "model":"gemma2-9b-it",
       "test": "echo \"Error: no test specified\" && exit 1",
       "temperature":0.5,
       "max_tokens":"4096",
